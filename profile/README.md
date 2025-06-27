@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38926b09-3791-4f6d-ab38-10d959024f7e" width="800" />
-</p>
-
-<p align="center">
   <h1>Open-Source Humanoid Project</h1>
   <em>A collaboration between Caltech, Columbia, Berkeley, Rutgers (CCBR)</em>
 </p>
